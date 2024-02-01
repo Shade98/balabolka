@@ -1,0 +1,4 @@
+pytelegrambotapi
+Beautifulsoup4
+lxml
+requests
